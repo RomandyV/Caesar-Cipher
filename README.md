@@ -9,3 +9,6 @@ A program that creates a encrypted or decrypted text file when given a file to r
   - Variables
   - Storing a string
   - Input/Output
+- How to create a C file using the Linux Console
+- Some Linux console commands
+- How to use the text editor "Vim"
